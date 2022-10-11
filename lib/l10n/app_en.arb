@@ -1,0 +1,26 @@
+{
+    "welcome":"Welcome",
+    "@welcome":{
+      "description":"Welcome you"
+    },
+    "about":"About country",
+    "@about":{
+      "description":"Tells about country"
+    },
+    "president":"President",
+    "@president":{
+      "description":"Tells about President"
+    }, 
+    "wisepresident":"Wise President",
+    "@wisepresident":{
+      "description":"Tells about wisepresident"
+    }, 
+    "area":"Area",
+    "@area":{
+      "description":"Tells about Area"
+    },
+    "population":"Population",
+    "@population":{
+      "description":"Tells about Population"
+    }
+}
